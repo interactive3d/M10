@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/M10_Assets/Scenes/m10_02_touch_mode.unity
+    guid: a7b9227d39bf7c749ac0c0c710744a4b
   m_configObjects: {}
